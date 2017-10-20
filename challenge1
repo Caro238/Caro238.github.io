@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>State of the world</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <h2>Have you ever wondered what is going on</h2>
+  <ul>
+    <li>in your neighborhood?</li>
+    <li>in your country?</li>
+    <li>in the world?</li>
+    </ul>
+   <h2>Hor what can be done?</h2>
+  <ul>
+    <li>You can do something</li>
+    <li>I can do something</li>
+    <li>We can do something</li>
+    </ul>    
+  <h3>Image</h3>
+  <p> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/bikes1.jpg"/>
+</body>
+</html>
